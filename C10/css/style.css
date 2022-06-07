@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+header p {
+    background-color: #1CD1B0;
+    padding: 7px;
+    margin-bottom: 0px;
+}
+header h1{
+    background-color: #00669F;
+    padding: 30px;
+    margin-top: 0px;
+}
+section, .mas{
+    text-align: center;
+    font-family:'Roboto', sans-serif;
+}
+article{
+    display: inline-block;
+    width: 300px;
+    background-color: #efefef;
+    border-radius: 18px;
+    margin: 20px;
+}
+p {
+    text-align: justify;
+    padding: 20px
+}
+.icon {
+    border-radius: 50%;
+    position: relative;
+    bottom: 66px;
+}
